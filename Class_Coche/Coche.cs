@@ -13,14 +13,17 @@ namespace Class_Coche
         public String matricula { get; set; }
         public int numeroPuertas { get; set; }
         public int numeroHp { get; set; }
+        public Boolean estado { get; set; }
 
-        public Coche(String marca,  String modelo, String color, String matricula, int numeroPuertas, int numeroHp){
+        public Coche(String marca,  String modelo, String color, String matricula, int numeroPuertas, int numeroHp)
+        {
             this.marca = marca;
             this.modelo = modelo;
             this.color = color; 
             this.matricula = matricula;
             this.numeroPuertas = numeroPuertas;
             this.numeroHp = numeroHp;
+            this.estado = false; // el estado constructor inicializamos parado.
         }
 
         public void avanzar() { 

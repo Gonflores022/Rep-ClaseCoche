@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulo\\source\\repos\\Class_Coche\\Class_Coche\\Class_Coche.csproj": {}
+    "C:\\Users\\Tajamar\\Desktop\\Rep-ClaseCoche\\Rep-ClaseCoche\\Class_Coche\\Class_Coche.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulo\\source\\repos\\Class_Coche\\Class_Coche\\Class_Coche.csproj": {
+    "C:\\Users\\Tajamar\\Desktop\\Rep-ClaseCoche\\Rep-ClaseCoche\\Class_Coche\\Class_Coche.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo\\source\\repos\\Class_Coche\\Class_Coche\\Class_Coche.csproj",
+        "projectUniqueName": "C:\\Users\\Tajamar\\Desktop\\Rep-ClaseCoche\\Rep-ClaseCoche\\Class_Coche\\Class_Coche.csproj",
         "projectName": "Class_Coche",
-        "projectPath": "C:\\Users\\paulo\\source\\repos\\Class_Coche\\Class_Coche\\Class_Coche.csproj",
-        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo\\source\\repos\\Class_Coche\\Class_Coche\\obj\\",
+        "projectPath": "C:\\Users\\Tajamar\\Desktop\\Rep-ClaseCoche\\Rep-ClaseCoche\\Class_Coche\\Class_Coche.csproj",
+        "packagesPath": "C:\\Users\\Tajamar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tajamar\\Desktop\\Rep-ClaseCoche\\Rep-ClaseCoche\\Class_Coche\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Tajamar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
