@@ -14,6 +14,7 @@ namespace Class_Coche
         public int numeroPuertas { get; set; }
         public int numeroHp { get; set; }
         public Boolean estado { get; set; }
+        public int velocidad = 0;
 
         public Coche(String marca,  String modelo, String color, String matricula, int numeroPuertas, int numeroHp)
         {
@@ -26,14 +27,39 @@ namespace Class_Coche
             this.estado = false; // el estado constructor inicializamos parado.
         }
 
-        public void avanzar() { 
+        public bool avanzar() {
+
+            if (estado) {
+                return true;
+            }
+            else {
+                estado = true;
+                return false; 
+            }
         }
-        public void acelerar() { 
+        public void acelerar( int km) { 
+            if (estado)
+            {
+                this.velocidad = this.velocidad + km;
+
+            }
         }
         public void detener() { 
         }
         public void cambiarColor() {
             this.color = color;
+        }
+
+        public bool pintar() {
+
+            try {
+                this.color = color;
+                return true;
+            }catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString);
+                return false;
+            }
         }
     }
 }

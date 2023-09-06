@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Class_Coche
 {
     public class Messanges{
-        public static void Hola() {
+        public static void Hola(){
             Console.WriteLine("Hola! Bienvenido a CochesRD.");
         }
 
