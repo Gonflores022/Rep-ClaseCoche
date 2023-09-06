@@ -1,0 +1,14 @@
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\bin\Debug\net6.0\Class_Coche.exe
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\bin\Debug\net6.0\Class_Coche.deps.json
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\bin\Debug\net6.0\Class_Coche.runtimeconfig.json
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\bin\Debug\net6.0\Class_Coche.dll
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\bin\Debug\net6.0\Class_Coche.pdb
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\obj\Debug\net6.0\Class_Coche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\obj\Debug\net6.0\Class_Coche.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\obj\Debug\net6.0\Class_Coche.AssemblyInfo.cs
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\obj\Debug\net6.0\Class_Coche.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\obj\Debug\net6.0\Class_Coche.dll
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\obj\Debug\net6.0\refint\Class_Coche.dll
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\obj\Debug\net6.0\Class_Coche.pdb
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\obj\Debug\net6.0\Class_Coche.genruntimeconfig.cache
+C:\Users\paulo\source\repos\Class_Coche\Class_Coche\obj\Debug\net6.0\ref\Class_Coche.dll
